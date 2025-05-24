@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926570421480",
+    "project_id": "mobile-app-coding-test-3cac6",
+    "storage_bucket": "mobile-app-coding-test-3cac6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926570421480:android:3cdd3138cd399e19313d5d",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app_coding_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926570421480-6n4tbj8f0n0h5c62hqocd6pomacmshmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALquMbtbbWOKmyZto72lu9Wp_kZIJS1Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926570421480-6n4tbj8f0n0h5c62hqocd6pomacmshmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926570421480-2i48ps1q8tf3u2s5mv60beq5esc351sj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobileAppCodingTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
