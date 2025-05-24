@@ -4,7 +4,7 @@
 
 ## 📱 Project Overview
 
-This Flutter application integrates Firebase Authentication for Google sign-in and displays a list of hotels fetched from a remote API. Users can view hotel details and see their locations on a map. The app follows a structured architecture using Provider for state management.
+This Flutter application integrates Firebase Authentication for Google sign-in and displays a list of hotels fetched from a remote API. Users can view hotel details and see their locations on a map. The app follows MVVM architecture using Provider for state management.
 
 ---
 
