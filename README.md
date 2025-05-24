@@ -14,7 +14,7 @@ This Flutter application integrates Firebase Authentication for Google sign-in a
 2. **API Endpoint**: The provided hotel data API endpoint is publicly accessible and returns valid JSON.
 3. **Permissions**: Users will grant location permissions when prompted for the map functionality.
 4. **Dependencies**: All required packages (e.g., firebase_auth, http, flutter_map) are listed in `pubspec.yaml` and resolvable via `pub get`.
-5. **Device Compatibility**: The app is tested on Android and iOS devices with Flutter SDK compatibility.
+5. **Device Compatibility**: The app is tested on mobile devices with Flutter SDK compatibility.
 
 ---
 
