@@ -58,7 +58,7 @@ This Flutter application integrates Firebase Authentication for Google sign-in a
 1. **Clone the Repository**
 
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/SheikAadil/Mobile-App-Coding-Test.git
    cd mobile_app_coding_test
    ```
 
