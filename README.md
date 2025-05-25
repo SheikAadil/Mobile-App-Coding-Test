@@ -1,5 +1,3 @@
-# mobile_app_coding_test
-
 # Mobile App Coding Test
 
 ## 📱 Project Overview
@@ -145,3 +143,4 @@ lib/
 - The app uses mock latitude/longitude values if parsing fails.
 - Network images display a placeholder if loading fails (via NetworkImageWidget).
 - Location permissions are requested only when accessing the map view.
+- To protect sensitive Firebase credentials, I've removed firebase_options.dart from the repository. You can regenerate it locally using `flutterfire configure` with your own Firebase project credentials, or I can provide the required keys privately if needed
